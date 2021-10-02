@@ -5,7 +5,7 @@
 ##
 <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Bejussi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bejussi" />
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
