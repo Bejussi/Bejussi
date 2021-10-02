@@ -1,17 +1,20 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
 
-#### Languages and Tools:
+<img align="right" alt="GIF" src="https://github.com/Bejussi/Bejussi/blob/main/contacts.gif" width="200px"/>
 
-<img align="left" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="Kotlin"  src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img align="left" alt="Firebase"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-<img align="left" alt="Git"  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" alt="Android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img align="left" alt="Figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+**About me**
 
-#### 
+Loading...
 
-   <img align="left" alt="Bejussi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bejussi&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="Bejussi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bejussi&show_icons=true" />
+**Languages and Tools:**  
 
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+**Github Stats:**
+
+| <a href="https://github.com/bejussi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bejussi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/bejussi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bejussi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
