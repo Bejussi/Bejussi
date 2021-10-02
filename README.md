@@ -1,8 +1,16 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
-<a href="https://github.com/Bejussi?tab=followers"><img src="https://img.shields.io/github/followers/Bejussi?label=Followers&style=social" alt="GitHub Badge"></a> </h1>
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
 
-## 
+### Languages and Tools:
+[<img align="left" alt="Java" width="20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]
+[<img align="left" alt="Kotlin" width="20px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />]
+[<img align="left" alt="Firebase" width="20px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />]
+[<img align="left" alt="Git" width="20px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]
+[<img align="left" alt="Android" width="20px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />]
+[<img align="left" alt="Figma" width="20px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />]
 
-<img align="left" alt="Bejussi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bejussi&show_icons=true&hide_border=true" />
-<img align="right" alt="Bejussi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bejussi&layout=compact" />
-
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="Bejussi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bejussi&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="Bejussi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bejussi&show_icons=true" />
+</details>
