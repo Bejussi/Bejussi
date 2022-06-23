@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px" width="40px">Welcome <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Bejussi"></a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" height="250px" width="300px"/>
 
 <h4 align="left">Start my path as an Android Developer about half a year ago.</h4>
 
